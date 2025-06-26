@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = "a0830d6065f541829878046079abff27"  # Put your key here
+API_KEY = "  "  
 companies = ["AAPL", "MSFT", "TSLA", "GOOGL", "AMZN"]
 all_news = []
 
